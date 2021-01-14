@@ -1,0 +1,14 @@
+item{
+    id: 1
+    name: 'perno'
+}
+
+item{
+    id: 2
+    name: 'arandela'
+}
+
+item{
+    id: 3
+    name: 'tuerca'
+}
